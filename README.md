@@ -1,4 +1,4 @@
-<img src="![로고](https://user-images.githubusercontent.com/89372273/130390773-849d5fe0-9d9b-471c-8dca-e58e80f7c051.png)" width="110%" height="90%">
+![로고](https://user-images.githubusercontent.com/89372273/130391481-915b1f7c-ac68-4154-b8fd-9ae94b39f5ac.png)
 
 # 2021 자율주행 인공지능 알고리즘 개발 챌린지(ADAI)
 ### 자율주행 인공지능에 도전해보세요!!
@@ -7,54 +7,102 @@
   
 ## 챌린지
 > 시나리오시나리오시나리오시나리오시나리오시나리오시나리오시나리오시나리오시나리오시나리오시나리오시나리오시나리오!
-
-#### 1. 예선
+>1. 예선
 > - 학습용 데이터를 이용한 자율주행 인공지능 알고리즘 개발 !
-#### 2. 본선
-> - 학습용 데이터를 이용한 자율주행 인공지능 알고리즘 고도화 !<br>
-최종 평가는 예선 및 본선 각 50점씩 총 100점만점 기준으로 고득점자 순으로 심사 수행
+>2. 본선
+> - 학습용 데이터를 이용한 자율주행 인공지능 알고리즘 고도화 !<br></pre>
+
+※ 최종 평가는 예선 및 본선 각 50점씩 총 100점만점 기준으로 고득점자 순으로 심사 수행
 
 
-## 혜택
-> 모든 참가팀에게 KERIS 원장상(참가상) 수여
+## 시상 및 혜택
+>- 총상금: 7,000,000원<br>
+<table class="tbl_prize">
+  <tr>
+    <th style="text-align:left;width:50%">구분</th>
+    <th style="text-align:center;width:15%">시상</th>
+        <th style="text-align:left;width:35%">상금</th>
+  </tr>
+  <tr>
+    <td>
+      <strong> 총합 1 등 (1팀) </strong><br>
+    </td>
+    <td align=center> 대상 </td>
+    <td> 상금 300만원 </td>
+  </tr>
+    <tr>
+    <td>
+      <strong> 총합 2등 (1팀)</strong><br>
+    </td>
+    <td align=center> 최우수상 </td>
+        <td align=center> 상금 200만원 </td>
+   </tr>
+      <tr>
+    <td>
+      <strong> 총합 3등 (2팀)</strong><br>
+    </td>
+    <td align=center>우수상</td>
+        <td align=center> 상금 100만원 </td>
+   </tr>
+</table>
 
 ## 대회 일정
-1. 참여 교사 사전 워크숍: 10.30(금) 14:00 ~ 17:00 
-<pre><code>- NSML 기초 사용법 및 대회 규칙 안내 </code></pre>
-2. 학생 사전 워크숍: 11.02(월) 16:30 ~ 19:00 
-<pre><code>- AI 개발 플랫폼 및 연습문제 풀이 방법 교육
-- 특별 강연: 네이버 AI 연구소장, 하정우 책임리더
-</code></pre>
-3. 해커톤 사전 연습: 11.02(월) 19:00 ~ 11.08(일) 24:00 
-<pre><code>- AI를 이용하여 영화 평점 예측하기</code></pre>
-4. AI 개발 체험 해커톤 본선: 11.09(월) 16:30 ~ 11.14(토) 12:00
-<pre><code>- 대회 규칙 및 AI 챌린지 설명
-- 생활 폐기물 이미지 분류하기
-- 모든 행사는 온라인으로 진행됨
-</code></pre>
+<table class="tbl_schedule">
+  <tr>
+    <th style="text-align:left;width:50%">행사내용</th>
+    <th style="text-align:center;width:15%">일정</th>
+        <th style="text-align:left;width:35%">장소/방식</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>참가 신청</strong><br>
+    </td>
+    <td style="text-align:center"> 2021년 8월 30일 ~ 10월 21일</td>
+    <td> 온라인(대회사이트 참조) </td>
+  </tr>
+    <tr>
+    <td>
+            <strong>사전 설명회</strong><br>
+    </td>
+    <td style="text-align:center"> 2021년 19월 4일 16:00 ~ 18:00</td>
+    <td> 온라인 </td>
+  </tr>
+    <tr>
+    <td>
+            <strong>예선</strong><br>
+    </td>
+    <td style="text-align:center"> 2021년 10월 22일 ~ 11월 5일</td>
+    <td> 온라인 </td>
+  </tr>
+    <tr>
+    <td>      
+             <strong>본선</strong><br>
+    </td>
+    <td style="text-align:center"> 2021년 11월 22일 ~ 2021년 12월 6일</td>
+    <td> 온라인 </td>
+  </tr>
+    <tr>
+    <td>           
+             <strong>시상식</strong><br>
+    </td>
+    <td style="text-align:center"> 2021년 12월 17일</td>
+    <td> 오프라인 </td>
+  </tr>
+    <tr>
+    <td>                
+     
+</table>
+
 ## 심사기준
-> 해커톤 플랫폼 리더보드 순위
+> 심사기준기준기준
 
 ## 참가신청
-1. 신청 기간: 2020.10.26.(월) 12:00 ~ 10.29.(목) 15:00 <br>
+1. 신청 기간: 2021년 8월 30일 ~ 10월 21일 <br>
 2. 신청 방법: <br>
-  + 이메일 접수
-    + jnk@keris.or.kr 로 **참가 신청서 1부** 제출
-  + 제출서류
-    + KERIS AI 해커톤 참가 신청서 1부 **(Github 아이디 기입 필수)**
+  + 구글폼 접수
+    + https://forms.gle/zwUt5uYMmKAD6PUG8
 
-## FAQ
-* [Github 회원 가입 방법](https://github.com/keris2020/hackathon/issues/2#issue-725131238)
-* [실시간 문의 사이트 사용방법](https://github.com/keris2020/hackathon/issues/1#issue-725130546)
-
-## 문의
-
-### 실시간 문의
-* 운영 기간: 2020.11.02 ~ 11.14, 15시 ~ 18시
-* 문의 게시판: [Slido 실시간 문의 게시판](https://app.sli.do/event/f3usp3m1)
-* **실시간 문의은 위 운영 시간에만 운영됨**
- 
 ### 온라인 게시판 및 이메일 문의
-* [온라인 게시판](https://github.com/keris2020/hackathon/issues)
-* 이메일: help.keris@gmail.com 
+* [온라인 게시판](https://github.com/2021ADAI/ADAIChallenge/issues)
+* 이메일: help.adai2021@gmail.com 
 * **온라인 게시판 및 이메일 문의는 대회기간 상시 운영**
