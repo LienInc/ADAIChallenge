@@ -16,7 +16,7 @@
 
 
 ## 시상 및 혜택
->- 총상금: 7,000,000원<br>
+>- 총상금: 원<br>
 <table class="tbl_prize">
   <tr>
     <th style="text-align:left;width:50%">구분</th>
@@ -28,21 +28,21 @@
       <strong> 총합 1 등 (1팀) </strong><br>
     </td>
     <td align=center> 대상 </td>
-    <td> 상금 300만원 </td>
+    <td> 상금 만원 </td>
   </tr>
     <tr>
     <td>
       <strong> 총합 2등 (1팀)</strong><br>
     </td>
     <td align=center> 최우수상 </td>
-        <td align=center> 상금 200만원 </td>
+        <td align=center> 상금 만원 </td>
    </tr>
       <tr>
     <td>
       <strong> 총합 3등 (2팀)</strong><br>
     </td>
     <td align=center>우수상</td>
-        <td align=center> 상금 100만원 </td>
+        <td align=center> 상금 만원 </td>
    </tr>
 </table>
 
