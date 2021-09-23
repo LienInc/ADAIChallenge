@@ -45,6 +45,7 @@
         <td align=center> 상금 만원 </td>
    </tr>
 </table>
+> 차후 공개 예정!
 
 ## 대회 일정
 <table class="tbl_schedule">
@@ -57,14 +58,14 @@
     <td>
       <strong>참가 신청</strong><br>
     </td>
-    <td style="text-align:center"> 2021년 8월 30일 ~ 10월 21일</td>
+    <td style="text-align:center"> 2021년 9월 27일 ~ 10월 21일</td>
     <td> 온라인(대회사이트 참조) </td>
   </tr>
     <tr>
     <td>
             <strong>사전 설명회</strong><br>
     </td>
-    <td style="text-align:center"> 2021년 19월 22일</td>
+    <td style="text-align:center"> 2021년 10월 22일</td>
     <td> 온라인 </td>
   </tr>
     <tr>
