@@ -28,21 +28,21 @@
       <strong> 총합 1 등 (1팀) </strong><br>
     </td>
     <td align=center> 대상 </td>
-    <td> 상금 만원 </td>
+    <td> 만원 </td>
   </tr>
     <tr>
     <td>
       <strong> 총합 2등 (1팀)</strong><br>
     </td>
     <td align=center> 최우수상 </td>
-        <td align=center> 상금 만원 </td>
+        <td align=center> 만원 </td>
    </tr>
       <tr>
     <td>
       <strong> 총합 3등 (2팀)</strong><br>
     </td>
     <td align=center>우수상</td>
-        <td align=center> 상금 만원 </td>
+        <td align=center> 만원 </td>
    </tr>
 </table>
 > 차후 공개 예정!
