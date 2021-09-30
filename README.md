@@ -1,4 +1,4 @@
-![로고](https://user-images.githubusercontent.com/89372273/130391481-915b1f7c-ac68-4154-b8fd-9ae94b39f5ac.png)
+![2021 자율주행 인공지능 아고리즘 개발 챌린지 - 포스터](https://user-images.githubusercontent.com/91305324/135467951-3f356282-2771-45cc-8011-4da371ed9bf9.jpg)
 
 # 2021 자율주행 인공지능 알고리즘 개발 챌린지(ADAI)
 ### 자율주행 인공지능에 도전해보세요!!
@@ -16,7 +16,7 @@
 
 
 ## 시상 및 혜택
->- 총상금: 원<br>
+>- 총상금: 추후 공개 예정<br>
 <table class="tbl_prize">
   <tr>
     <th style="text-align:left;width:50%">구분</th>
@@ -106,4 +106,4 @@
 ### 온라인 게시판 및 이메일 문의
 * [온라인 게시판](https://github.com/2021ADAI/ADAIChallenge/issues)
 * 이메일: help.adai2021@gmail.com 
-* **온라인 게시판 및 이메일 문의는 대회기간 상시 운영**
+* ** 온라인 게시판 및 이메일 문의는 대회기간 상시 운영 **
